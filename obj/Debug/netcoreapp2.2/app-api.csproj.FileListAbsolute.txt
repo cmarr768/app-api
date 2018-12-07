@@ -1,0 +1,14 @@
+/media/sf_Code/app-api/bin/Debug/netcoreapp2.2/app-api.deps.json
+/media/sf_Code/app-api/bin/Debug/netcoreapp2.2/app-api.runtimeconfig.json
+/media/sf_Code/app-api/bin/Debug/netcoreapp2.2/app-api.runtimeconfig.dev.json
+/media/sf_Code/app-api/bin/Debug/netcoreapp2.2/app-api.dll
+/media/sf_Code/app-api/bin/Debug/netcoreapp2.2/app-api.pdb
+/media/sf_Code/app-api/obj/Debug/netcoreapp2.2/app-api.csprojAssemblyReference.cache
+/media/sf_Code/app-api/obj/Debug/netcoreapp2.2/app-api.csproj.CoreCompileInputs.cache
+/media/sf_Code/app-api/obj/Debug/netcoreapp2.2/app-api.RazorAssemblyInfo.cache
+/media/sf_Code/app-api/obj/Debug/netcoreapp2.2/app-api.RazorAssemblyInfo.cs
+/media/sf_Code/app-api/obj/Debug/netcoreapp2.2/app-api.AssemblyInfoInputs.cache
+/media/sf_Code/app-api/obj/Debug/netcoreapp2.2/app-api.AssemblyInfo.cs
+/media/sf_Code/app-api/obj/Debug/netcoreapp2.2/app-api.RazorTargetAssemblyInfo.cache
+/media/sf_Code/app-api/obj/Debug/netcoreapp2.2/app-api.dll
+/media/sf_Code/app-api/obj/Debug/netcoreapp2.2/app-api.pdb
